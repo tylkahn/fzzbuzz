@@ -1,3 +1,5 @@
+#!/bin/bash
+
 read -s var
 
 x=1
